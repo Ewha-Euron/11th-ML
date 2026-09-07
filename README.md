@@ -1,7 +1,8 @@
 
 # 11th-ML
 ## 📢 발표 안내
-- 📚[발표자료](https://github.com/user-attachments/files/31893670/Euron_Week1_.pdf)
+- 📚[발표자료.pdf](https://github.com/user-attachments/files/31919576/Euron_Week1_.pdf)
+
 - 발표자: 1팀(주지원, 김유진, 김가영)
 - 파머완 1장. 파이썬 기반의 머신러닝과 생태계 이해
   - 머신러닝의 개념
