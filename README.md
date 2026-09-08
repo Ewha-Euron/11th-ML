@@ -1,4 +1,4 @@
-[Euron_Week1_발표자료.pdf](https://github.com/user-attachments/files/31944551/Euron_Week1_.pdf)# 🐣EURON 11기 ML 세션🐣
+# 🐣EURON 11기 ML 세션🐣
 ## 💚 팀 구성 💚
 
 |팀|팀원| | |
