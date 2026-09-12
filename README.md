@@ -34,5 +34,5 @@
 * 복습과제
   - 제출 x
 ## 💚 우수 과제
-- (https://github.com/Ewha-Euron/11th-ML/pull/1)
-- https://github.com/Ewha-Euron/11th-ML/pull/8/changes
+- [1주차 예습과제](https://github.com/Ewha-Euron/11th-ML/pull/1)
+- [1주차 예습과제](https://github.com/Ewha-Euron/11th-ML/pull/8/changes)
