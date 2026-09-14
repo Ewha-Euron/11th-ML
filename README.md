@@ -1,7 +1,6 @@
 # 11th-ML
 ## 📢 발표 안내
 - 📚[발표 자료] - (https://github.com/user-attachments/files/32180362/Euron_Week2_.pdf)
-)
 
 - 발표자: 2팀(김단아, 김지민, 이소미)
 - 파머완 2장. 사이킷런으로 시작하는 머신러닝
