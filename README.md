@@ -1,6 +1,7 @@
 # 11th-ML
 ## 📢 발표 안내
-- 📚 [발표 자료]
+- 📚[Euron_Week3_발표자료.pdf](https://github.com/userattachments/files/32471227/Euron_Week3_.pdf)
+
 
 - 발표자: 3팀(구연우, 최윤서, 송영은)
 - 파머완 4장. 분류 - Part 1(4.1 ~ 4.4장)
