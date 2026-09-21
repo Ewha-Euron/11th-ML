@@ -46,6 +46,6 @@
   - **9월 14일 23:59**까지 제출합니다.
 
 ## 💚우수과제💚
-- [Week2_예습과제_이서윤]-(https://github.com/Ewha-Euron/11th-ML/pull/23)
-- [Week2_예습과제_김유진]-(https://github.com/Ewha-Euron/11th-ML/pull/27)
+- Week2_예습과제_이서윤-(https://github.com/Ewha-Euron/11th-ML/pull/23)
+- Week2_예습과제_김유진-(https://github.com/Ewha-Euron/11th-ML/pull/27)
 
