@@ -1,6 +1,8 @@
 # 11th-ML
 ## 📢 발표 안내
-- 📚 [발표 자료] - 
+- 📚 [발표 자료] - [Euron_Week4.pdf](https://github.com/user-attachments/files/32742748/Euron_Week4.pdf)
+
+
 
 - 발표자: 4팀(이서윤, 김서현, 조윤서)
 - 파머완 4장. 분류 - Part 2(4.5장 ~ 4.8장, 4.10 ~ 4.11장)
