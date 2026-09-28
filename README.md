@@ -54,6 +54,6 @@
   - **9월 21일 23:59**까지 제출합니다.
     
 ## 💚우수과제💚
-- Week3_예습과제_이소미(https://github.com/somi0214/11th-ML/blob/Week_3/Week3_예습과제_이소미.pdf)
-- Week3_예습과제_김유진(https://github.com/Euugene0/11th-ML/blob/Week_3/Week3_예습과제_김유진.pdf) 
+- [Week3_예습과제_이소미](https://github.com/somi0214/11th-ML/blob/Week_3/Week3_예습과제_이소미.pdf)
+- [Week3_예습과제_김유진](https://github.com/Euugene0/11th-ML/blob/Week_3/Week3_예습과제_김유진.pdf) 
 
