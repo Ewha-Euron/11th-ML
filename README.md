@@ -42,5 +42,5 @@
   - branch: Week_3
   - **9월 28일 23:59**까지 제출합니다.
 ## 💚우수과제💚
-- 
+- [Week4_예습과제_최윤서](https://github.com/torirang/11th-ML/blob/Week_4/Week4_예습과제_최윤서.pdf)
 - 
