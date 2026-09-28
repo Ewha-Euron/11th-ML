@@ -12,9 +12,7 @@
 ※ 5주차 발표팀(1팀)은 제출 안하셔도 됩니다.
 - **파이썬 머신러닝 완벽가이드 4장 실습 필사**
   - 파머완 4.9
-- 캐글 필사 (노션 참고)
-  - Decision Tree and Random Forest Classifier Models
-  - Beginner Friendly CatBoost with Optuna
+- 캐글 notebook 1,2 필사 (노션 주차별 학습 내용 표 참고)
 
 ⭐ 실습 시작 전에 한 번씩 읽어보세요.    
 => [데이터 과학 및 캐글 입문자를 위한 캐글 필사 알아보기](https://modulabs.co.kr/blog/data-science-kaggle/)  
