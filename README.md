@@ -1,6 +1,7 @@
 # 11th-ML
 ## 📢 발표 안내
-- 📚 [발표 자료] - 
+- 📚 [발표 자료] - (https://github.com/user-attachments/files/33018627/Euron_Week5.pdf)
+
 - 발표자: 1팀(김가영, 김유진, 주지원)
 - 파머완 4장 실습(4.9)
   - 캐글 산탄데르 고객 만족 예측
