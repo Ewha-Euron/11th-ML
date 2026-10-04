@@ -16,7 +16,7 @@
 |2주차|09/15|파머완 2장, 3장(2.6, 3.6장 제외)|2팀|[📚](https://github.com/user-attachments/files/32182359/Euron_Week2_.pdf)|
 |3주차|09/22|파머완 4장 - Part 1(4.1장 ~  4.4장)|3팀|[📚](https://github.com/user-attachments/files/32564975/Euron_Week3_.pdf)|
 |4주차|09/29|파머완 4장 - Part 2(4.5장 ~ 4.8장, 4.10장 ~ 4.11장)|4팀|[📚](https://github.com/user-attachments/files/32742858/Euron_Week4.pdf)|
-|5주차|10/06|분류 실습(파머완 4.9, 4.10장 + Kaggle 필사)|1팀|[📚]](https://github.com/user-attachments/files/33018489/Euron_Week5.pdf)|
+|5주차|10/06|분류 실습(파머완 4.9, 4.10장 + Kaggle 필사)|1팀|[📚](https://github.com/user-attachments/files/33018489/Euron_Week5.pdf)|
 |6주차|10/13|파머완 5장(5.9, 5.10장 제외)|2팀|[📚]()|
 |7주차|10/20|중간고사 휴식 - 1|||
 |8주차|10/27|중간고사 휴식 - 2|||
