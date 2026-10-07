@@ -44,6 +44,5 @@
   - branch: Week_3
   - **9월 28일 23:59**까지 제출합니다.
 ## 💚우수과제💚
-- [Week4_예습과제_최윤서](https://github.com/torirang/11th-ML/blob/Week_4/Week4_예습과제_최윤서.pdf)
 - [Week4_예습과제_이소미](https://github.com/somi0214/11th-ML/blob/Week_4/Week4_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EC%9D%B4%EC%86%8C%EB%AF%B8.pdf)
 - [Week4_예습과제_김유진](https://github.com/Euugene0/11th-ML/blob/Week_4/Week4_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B9%80%EC%9C%A0%EC%A7%84.pdf)
