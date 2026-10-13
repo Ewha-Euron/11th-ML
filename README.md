@@ -49,5 +49,5 @@
   - **10/5 23:59**까지 제출합니다.
  
 ## 💚우수과제💚
-  -[Week5_예습과제_최윤서](https://github.com/torirang/11th-ML/blob/Week_5/Week5_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EC%B5%9C%EC%9C%A4%EC%84%9C.pdf)
+  -[Week5_예습과제_최윤서](https://github.com/torirang/11th-ML/blob/Week_5/Week5_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EC%B5%9C%EC%9C%A4%EC%84%9C.pdf)|
   -[Week5_예습과제_조윤서](https://github.com/Ewha-Euron/11th-ML/pull/73)
