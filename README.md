@@ -1,7 +1,8 @@
 # 11th-ML
 
 ## 📢 발표 안내
-- 📚 
+- 📚 [발표 자료] - [Euron_Week6.pdf](https://github.com/user-attachments/files/33364569/Euron_Week6.pdf)
+)
 - 발표자: 2팀(김단아, 이소미)
 - 파머완 5장. 회귀(5.1장 ~ 5.8장)
   - 회귀 개요
