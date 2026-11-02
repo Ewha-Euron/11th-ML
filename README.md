@@ -1,6 +1,7 @@
 # 11th-ML
 ## 📢 발표 안내
-- 📚 [발표 자료]-
+- 📚 [발표 자료]-[Euron_Week9](https://github.com/user-attachments/files/34287933/Euron_Week9.pdf)
+
 - 발표자: 3팀(구연우, 최윤서, 송영은)
 - 파머완 5.9, 5.10장 + 캐글 추가 노트북 2개
   - 5.9장 : 캐글 자전거 대여 수요 예측
