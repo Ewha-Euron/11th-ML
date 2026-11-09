@@ -40,6 +40,6 @@
   - **11/02 23:59**까지 제출합니다.
  
 ## 💚우수과제💚
--
-- 
+-https://github.com/5uhhyun/11th-ML/blob/Week_6/Week6_예습과제_김서현.pdf
+- https://github.com/torirang/11th-ML/blob/Week_6/Week6_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EC%B5%9C%EC%9C%A4%EC%84%9C.pdf
 
