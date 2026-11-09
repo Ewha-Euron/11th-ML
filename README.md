@@ -40,6 +40,6 @@
   - **11/02 23:59**까지 제출합니다.
  
 ## 💚우수과제💚
--
-- 
+- [Week9_예습과제_김서현](https://github.com/Ewha-Euron/11th-ML/pull/100)
+- [Week9_예습과제_주지원](https://github.com/jiwonjoo413-maker/11th-ML/blob/Week_9/Week9_예습과제_주지원.ipynb)
 
