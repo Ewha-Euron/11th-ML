@@ -1,6 +1,7 @@
 # 11th-ML
 ## 📢 발표 안내
-- 📚 [발표 자료]-
+- 📚 [발표 자료]-[Euron_Week10](https://github.com/user-attachments/files/34575108/Euron_Week10.pdf)
+
 - 발표자: 4팀(이서윤, 김서현, 조윤서)
 - 파머완 6장. 차원축소(6.1 ~ 6.5장)
   - PCA
