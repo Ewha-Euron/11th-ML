@@ -1,7 +1,8 @@
 # 11th-ML
 
 ## 📢 발표 안내
-- 📚 [발표 자료] 
+- 📚 [발표 자료](https://github.com/user-attachments/files/34902951/Euron_week11.pdf)
+
 - 발표자: 1팀(김가영, 김유진, 주지원)
 - 파머완 7장. 군집화(7.1 ~ 7.6장)
   - KMeans
