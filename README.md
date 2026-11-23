@@ -23,7 +23,7 @@
 |9주차|11/03|회귀 실습(파머완 5.9, 5.10장 + Kaggle 필사)|3팀|[📚](https://github.com/user-attachments/files/34287968/Euron_Week9.pdf)|
 |10주차|11/10|파머완 6장|4팀|[📚](https://github.com/user-attachments/files/34575034/Euron_Week10.pdf)|
 |11주차|11/17|파머완 7장|1팀|[📚](https://github.com/user-attachments/files/34903010/Euron_week11.pdf)|
-|12주차|11/24|파머완 8장 - Part 1(8.1 ~ 8.3, 8.5장)|2팀|[📚]()|
+|12주차|11/24|파머완 8장 - Part 1(8.1 ~ 8.3, 8.5장)|2팀|[📚](https://github.com/user-attachments/files/35258466/Euron_Week12.pdf)|
 |13주차|12/01|파머완 8장 - Part 2(8.6 ~ 8.9장)|3팀|[📚]()|
 |14주차|12/08|기말고사 휴식기간 - 1|
 |15주차|12/15|기말고사 휴식기간 - 2|
