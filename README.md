@@ -1,7 +1,7 @@
 # 11th-ML
 
 ## 📢 발표 안내
-- 📚 [발표 자료]
+- 📚 [발표 자료] - [Euron_Week12.pdf](https://github.com/user-attachments/files/35258418/Euron_Week12.pdf)
 - 발표자: 2팀(김단아, 이소미)
 - 파머완 8장. 텍스트 분석(8.1 ~ 8.3, 8.5장)
   - 텍스트 분석 이해
