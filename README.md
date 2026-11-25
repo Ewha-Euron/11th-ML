@@ -60,5 +60,5 @@
   - **11/16 23:59**까지 제출합니다.
   - 
 ## 💚우수과제💚
--
--
+- [Week11_예습과제_김단아](https://github.com/Ewha-Euron/11th-ML/pull/136)
+- [Week11_예습과제_송영은](https://github.com/s-youngni/11th-ML/blob/Week_11/Week11_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EC%86%A1%EC%98%81%EC%9D%80.pdf)
