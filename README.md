@@ -42,4 +42,4 @@
 ## 💚우수과제💚
 - [Week9_예습과제_김서현](https://github.com/Ewha-Euron/11th-ML/pull/100)
 - [Week9_예습과제_주지원](https://github.com/jiwonjoo413-maker/11th-ML/blob/Week_9/Week9_예습과제_주지원.ipynb)
-
+- [Week9_복습과제_김가영](https://github.com/moer01-12/11th-ML/blob/week_9/Week9_%EB%B3%B5%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B9%80%EA%B0%80%EC%98%81.ipynb)
